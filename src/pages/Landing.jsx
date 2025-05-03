@@ -1,8 +1,10 @@
-import Header from "../components/landingPage/Header"
+import Header from "../components/landingPage/Header";
+import Hero from "../components/landingPage/Hero";
 const Landing = () => {
   return (
     <div>
       <Header/>
+      <Hero/>
     </div>
   )
 }
